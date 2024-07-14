@@ -19,7 +19,7 @@ A simple URL shortener built with Node.js and Express. This application allows u
 1. **Clone the repository:**
 
 ```bash
-npm run start:dev
+git clone https://github.com/UtsavGohel/short-link.git
 
 ```
 
