@@ -18,17 +18,23 @@ A simple URL shortener built with Node.js and Express. This application allows u
 
 1. **Clone the repository:**
 
-   ```bash
-   [git clone https://github.com/yourusername/short-link-generator.git](https://github.com/UtsavGohel/short-link.git)
-   cd short-link
+```bash
+# development
+$ npm run start:dev
+
+```
 
 2. **Install the dependencies:**
 
-  ```bash
-  npm install
+```bash
+npm install
+
+```
 
 3. **Run the application:**
 
-   npm run start:dev
+```bash
+npm run start:dev
 
+```
    
